@@ -4,7 +4,7 @@ SHANG Wenchaung
 
 ## **Project Title**
 
-Enhance the professionalism of LLM answers through keyword-based labeled databas (RAG with Gemini)
+Enhance the professionalism of LLM answers through keyword-based labeled database (RAG with Gemini)
 
 ## **Introduction**
 This is just for presentation in the class of "Collaboration across STEM and Liberal Arts:AI design concept and technology that supports digital humanities"
