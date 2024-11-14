@@ -11,6 +11,7 @@ This is just for presentation in the class of "Collaboration across STEM and Lib
 
 ## Pre-trained model used in this work
 LLM: *Gemini-1.5-flash*
+
 Zero-shot classification model using Natural Language Inference (NLI) based on the BART architecture: *pipeline('zero-shot-classification', model='facebook/bart-large-mnli')*
 
 ## **Clone the repository**
