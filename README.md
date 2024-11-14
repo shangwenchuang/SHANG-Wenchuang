@@ -25,7 +25,7 @@ To use Project Title, follow these steps:
 
 ## **License**
 
-Project Title is released under the MIT License. See the **[LICENSE](https://www.blackbox.ai/share/LICENSE)** file for details.
+Project Title is released under the MIT License. See the **LICENSE** file for details.
 
 ## **Authors and Acknowledgment**
 
