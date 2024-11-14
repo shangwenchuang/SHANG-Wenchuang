@@ -8,6 +8,11 @@ Enhance the professionalism of LLM answers through keyword-based labeled databas
 
 ## **Introduction**
 This is just for presentation in the class of "Collaboration across STEM and Liberal Arts:AI design concept and technology that supports digital humanities"
+
+## Pre-trained model used in this work
+### LLM: Gemini-1.5-flash
+### Zero-shot classification model using Natural Language Inference (NLI) based on the BART architecture: *pipeline('zero-shot-classification', model='facebook/bart-large-mnli')*
+
 ## **Clone the repository**
 
 Clone the repository: **`git clone https://github.com/shangwenchuang/SHANG-Wenchuang`**
