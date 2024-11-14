@@ -31,11 +31,11 @@ Project Title is released under the MIT License. See the **[LICENSE](https://www
 
 Project Title was created by **[SHANG Wenchuang](https://github.com/shangwenchuang)**.
 
-# **Examples**
+## **Examples**
 
-## Prompt : "What is the magnetostriction, and what are the typical materials"
+### Prompt : "What is the magnetostriction, and what are the typical materials"
 
-### Answer without RAG :
+#### *Answer without RAG* :
 Magnetostriction: A Magnetic Shape Shifter
 Magnetostriction is the phenomenon where a ferromagnetic material changes its shape in response to an applied magnetic field. This change in shape can be either a lengthening (positive magnetostriction) or a shortening (negative magnetostriction) of the material.
 
@@ -65,7 +65,7 @@ Magnetic memory: Some materials exhibit magnetostriction as a side effect of the
 In summary:
 
 Magnetostriction is a fascinating phenomenon that allows magnetic materials to change their shape in response to an applied magnetic field. This property has many practical applications in various fields, including sensing, actuation, and data storage.
-### Answer with RAG :
+#### *Answer with RAG* :
 Magnetostriction is the property of magnetic materials that causes them to change their shape or dimensions when exposed to a magnetic field. This change in shape is known as magnetostrictive strain.
 
 Here are some of the typical materials used for magnetostriction:
@@ -84,12 +84,14 @@ Nickel: Used in early sonar transducers during World War II.
 Iron-Aluminium Alloys (Alperm Family): Used by the Japanese navy during World War II due to nickel shortages.
 The magnetostriction property is quantified by the magnetostrictive coefficient, denoted as λ. This coefficient can be positive or negative and represents the fractional change in length as the material's magnetization increases from zero to saturation.
 
-## **Contact**
 
-If you have any questions or comments about Project Title, please contact **[SHANG Wenchuang](shang.w.beed@m.isct.ac.jp)**.
 
 ## **Conclusion**
 
 As shown in the **Examples**, when we introduce the database (here, the database comes from Wikipedia), through the labeled database, we can introduce new (professional) information through question and label correspondence to enhance LLM's answers. 
 
 You can easily find that the RAG-enhanced LLM’s answers are more professional and supported by specific data.
+
+## **Contact**
+
+If you have any questions or comments about Project Title, please contact **[SHANG Wenchuang](shang.w.beed@m.isct.ac.jp)**.
